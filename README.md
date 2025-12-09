@@ -1,7 +1,7 @@
 # Ejercicio-5-XML
-<?xml version="1.0" encoding="UTF-8"?>
-<ticket id="TCK-00123">
-    
+
+    <?xml version="1.0" enconding="UTF-8"?>
+    <ticket id="TCK-00123">
     <fecha>2025-01-16</fecha>
     <hora>18:43</hora>
 
